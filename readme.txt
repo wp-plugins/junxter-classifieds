@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: markjaquith, mdawaffe
+Contributors: Junxter Media
 Donate link: http://demo.junxter.com/wordpress/2.1/
 Tags: Classifieds
 Requires at least: 2.0.2
