@@ -20,8 +20,6 @@ content\themes\default),change default to your themes file here.
 Both JunxterAds.php and wp-junxter.php require you to insert your
 own Junxter Classifieds Publisher Key.
 You can get this key from http://www.junxter.com
-If you are using the files downloaded within your publisher kit. 
-This key has been saved for you.
 
 3:Login in as admin.Go to Plugins, activate plugin JunxterAds
 
