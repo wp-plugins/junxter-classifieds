@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: Junxter Media
-Donate link: http://demo.junxter.com/wordpress/2.1/
-Tags: Classifieds
+Donate link: http://www.junxter.com/
+Tags: manage,ads,adsense,classifieds
 Requires at least: 2.0.2
 Tested up to: 2.1
 Stable tag: 0.1
