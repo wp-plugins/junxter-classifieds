@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: Junxter Media
-Donate link: http://www.junxter.com/
 Tags: manage,ads,adsense,classifieds
+Demo: Http://demo.junxter.com/wordpress/2.1
 Requires at least: 2.0.2
 Tested up to: 2.1
 Stable tag: 0.1
@@ -37,8 +37,9 @@ add <?php Junxter_main(); ?> in your siderbar.
 Where can I get my Junxter Publisher Key?
 :Just get this key from www.junxter.com
 
-
-== Screenshots ==
-
 For more informations about Junxter Classifieds. Please visite http://
 www.junxter.com
+
+== Screenshots ==
+This is the screen shot  
+
